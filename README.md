@@ -1,11 +1,27 @@
 # Datastructures-Screenshot
-Screenshot (43).png
-Screenshot (44).png
-Screenshot (45).png
-Screenshot (46).png
-Screenshot (47).png
-Screenshot (48).png
-Screenshot (49).png
-Screenshot (50).png
-Screenshot (51).png
-Screenshot (52).png
+array deletion.c
+binary search. 
+fibonacci with recursion.c 
+fibonacci without recurssion.c
+linear search.c 
+linked list implementations.c 
+matrice multiplication.c 
+ODD EVEN.c
+FACTORIAL .c 
+stack operations.c
+factorial without recursion
+stack applications
+queue
+tree transversals
+hashing using probing 
+insertion sort
+quick sort
+merge sort 
+heap sort
+avl tree
+BFS algorithm 
+DFS algorithm
+dijkstra algorithm
+prims algorithm
+krushal algorithm
+
